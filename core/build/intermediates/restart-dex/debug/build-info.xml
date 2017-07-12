@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="777923429290182"
+    token="-2938672589458644116"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="777817291955710"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\build\outputs\apk\core-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="777923429290182"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

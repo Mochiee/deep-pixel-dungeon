@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Loh Kee Yong\\Desktop\\deeppixeldungeon\\core\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Loh Kee Yong\\Desktop\\deeppixeldungeon\\core\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            }
+        ]
+    }
+]

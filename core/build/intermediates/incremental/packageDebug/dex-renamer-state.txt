@@ -1,0 +1,7 @@
+#Wed Jul 12 16:37:16 SGT 2017
+base.0=C\:\\Users\\Loh Kee Yong\\Desktop\\deeppixeldungeon\\core\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d7c8a40e95c64688f292b7613a9d2578d2c383da
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Loh Kee Yong\\Desktop\\deeppixeldungeon\\core\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dd02e8a8b1ab8ed4cada2841f7029bbdf2572020\\classes.dex
+base.1=C\:\\Users\\Loh Kee Yong\\Desktop\\deeppixeldungeon\\core\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dd02e8a8b1ab8ed4cada2841f7029bbdf2572020
+file.0=C\:\\Users\\Loh Kee Yong\\Desktop\\deeppixeldungeon\\core\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d7c8a40e95c64688f292b7613a9d2578d2c383da\\classes.dex

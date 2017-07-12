@@ -1,0 +1,21 @@
+Weapon Enhancer/Armour Enhancer
+
+--DONE--
+
+- Added ghost shard scaling to weapons.
+
+
+--NEXT--
+
+- Add ghost shard scaling to NewShortsword and Sai onwards.
+
+
+--NOTES--
+
+- Ghost shard scaling affects perks of a weapon.
+
+> Weapons with extra speed/accuracy get boosted speed/accuracy through ghosts shard but nerf damage bonus accordingly.
+> Weapons with special abilities get larger values/smaller cooldowns for abilities from ghost shard bonus. Nerf damage accordingly.
+> Balance around 4-5 ghost shards at end game for non-grinders. 
+
+

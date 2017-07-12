@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:3:2-38
+	android:versionName
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:5:2-29
+		INJECTED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:6:2-32
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:8:2-62
+	android:name
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:8:19-60
+uses-sdk
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:10:2-12:34
+MERGED from [deeppixeldungeon:SPD-classes:unspecified] C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\build\intermediates\exploded-aar\deeppixeldungeon\SPD-classes\unspecified\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:12:3-32
+	android:minSdkVersion
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:11:3-28
+uses-feature#0x00020000
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:14:2-15:37
+MERGED from [deeppixeldungeon:SPD-classes:unspecified] C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\build\intermediates\exploded-aar\deeppixeldungeon\SPD-classes\unspecified\AndroidManifest.xml:7:5-54
+	android:glEsVersion
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:15:3-35
+supports-screens
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:19:2-23:33
+	android:largeScreens
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:22:3-30
+	android:smallScreens
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:20:3-30
+	android:normalScreens
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:21:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:23:3-31
+application
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:25:2-40:16
+MERGED from [deeppixeldungeon:SPD-classes:unspecified] C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\build\intermediates\exploded-aar\deeppixeldungeon\SPD-classes\unspecified\AndroidManifest.xml:9:5-10:19
+	android:label
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:27:3-35
+	android:allowBackup
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:29:3-30
+	android:icon
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:26:3-37
+	android:theme
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:28:3-67
+activity#com.mochi.deeppixeldungeon.DeepPixelDungeon
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:30:3-39:14
+	android:screenOrientation
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:34:4-40
+	android:label
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:31:4-36
+	android:configChanges
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:33:4-65
+	android:name
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:32:4-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:35:4-38:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:36:5-57
+	android:name
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:36:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:37:5-65
+	android:name
+		ADDED from C:\Users\Loh Kee Yong\Desktop\deeppixeldungeon\core\src\main\AndroidManifest.xml:37:15-62
